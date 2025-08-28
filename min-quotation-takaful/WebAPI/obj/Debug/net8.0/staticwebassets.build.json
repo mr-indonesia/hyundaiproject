@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oQ/mLpF5Zihk8MNGWfLstCSWwpnvX3CKmjl84dBf2kg=",
+  "Hash": "6pYKsP4LW9jn15gHdJzsGDYK4CHdPY+hBD2RmT1ug/M=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebAPI\\wwwroot",
       "Source": "WebAPI",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\css\\site.css",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\css\\site.css",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\favicon.ico",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\favicon.ico",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\js\\site.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\js\\site.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,94 +80,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gawgt6fljy",
-      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "k9n1kkbua6",
-      "Integrity": "CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "etnb7xlipe",
-      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kao5znno1s",
-      "Integrity": "xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +248,94 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gawgt6fljy",
+      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9n1kkbua6",
+      "Integrity": "CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etnb7xlipe",
+      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kao5znno1s",
+      "Integrity": "xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -521,199 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ukz1g2vv03",
-      "Integrity": "oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "rm8d4uw1xt",
-      "Integrity": "82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "dsw5v3fbc5",
-      "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "afgyafcsqt",
-      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wus95c49fh",
-      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "sjab29p8z5",
-      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "d2pxujwhw3",
-      "Integrity": "27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4dm14o4hmc",
-      "Integrity": "eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "x0q3zqp4vz",
-      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -731,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -771,12 +582,201 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus95c49fh",
+      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjab29p8z5",
+      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2pxujwhw3",
+      "Integrity": "27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dm14o4hmc",
+      "Integrity": "eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ukz1g2vv03",
+      "Integrity": "oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm8d4uw1xt",
+      "Integrity": "82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dsw5v3fbc5",
+      "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afgyafcsqt",
+      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ],
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -797,7 +797,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -813,7 +813,7 @@
     },
     {
       "Route": "css/site.hdhjllpya4.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -834,7 +834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -858,7 +858,7 @@
     },
     {
       "Route": "favicon.90yqlj465b.ico",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -879,7 +879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -903,7 +903,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -924,7 +924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -940,7 +940,7 @@
     },
     {
       "Route": "js/site.0n9f8i66x6.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -961,7 +961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -985,7 +985,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1006,7 +1006,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1021,336 +1021,8 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "492048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k9n1kkbua6"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "492048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gawgt6fljy"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "155764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "625953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kao5znno1s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "625953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "155764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "etnb7xlipe"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.9n0ta5ieki.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1371,7 +1043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1395,7 +1067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1416,7 +1088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1432,7 +1104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.0i1dcxd824.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1453,7 +1125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1477,7 +1149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1498,7 +1170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1514,7 +1186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1535,7 +1207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1551,7 +1223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.jzb7jyrjvs.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1572,7 +1244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1596,7 +1268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1617,7 +1289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1633,7 +1305,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.vxs71z90fw.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1654,7 +1326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1678,7 +1350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1699,7 +1371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1715,7 +1387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1736,7 +1408,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1752,7 +1424,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.tgg2bl5mrw.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1773,7 +1445,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1797,7 +1469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.brwg1hntyu.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1818,7 +1490,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1842,7 +1514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1863,7 +1535,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1879,7 +1551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.gf2dxac9qe.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1900,7 +1572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1924,7 +1596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1945,7 +1617,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1961,7 +1633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.nynt4yc5xr.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1982,7 +1654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2005,8 +1677,336 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9n1kkbua6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gawgt6fljy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kao5znno1s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etnb7xlipe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.48vr37mrsy.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2027,7 +2027,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2051,7 +2051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2072,7 +2072,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2088,7 +2088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2109,7 +2109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2125,7 +2125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.pxamm17y9e.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2146,7 +2146,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2170,7 +2170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hjuzisly30.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2191,7 +2191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2215,7 +2215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2236,7 +2236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2252,7 +2252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2273,7 +2273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2289,7 +2289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.u9xms436mi.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2310,7 +2310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2334,7 +2334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.u0biprgly9.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2355,7 +2355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2379,7 +2379,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2400,7 +2400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2416,7 +2416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2437,7 +2437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2453,7 +2453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.vaswmcjbo4.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2474,7 +2474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2498,7 +2498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2519,7 +2519,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,7 +2535,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2556,7 +2556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2572,7 +2572,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.sgi57dik4g.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2593,7 +2593,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2617,7 +2617,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zu238p5lxg.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2638,7 +2638,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2662,7 +2662,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2683,7 +2683,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2699,7 +2699,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.weyt030wr8",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2720,7 +2720,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2743,746 +2743,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "298502"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137974"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dsw5v3fbc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137974"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.rm8d4uw1xt.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rm8d4uw1xt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.ukz1g2vv03.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "298502"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ukz1g2vv03"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1641"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "afgyafcsqt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1641"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18467"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "18467"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sjab29p8z5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wus95c49fh"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/additional-methods.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "50276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d2pxujwhw3"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "50276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4dm14o4hmc"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/markdown"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x0q3zqp4vz"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation/LICENSE.md"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
-        }
-      ]
-    },
-    {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3503,7 +2765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3527,7 +2789,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3548,7 +2810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3564,7 +2826,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.gb7ocvbhts.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3585,7 +2847,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3609,7 +2871,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3630,7 +2892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3646,7 +2908,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3667,7 +2929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3683,7 +2945,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\HyundaiGit\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3704,7 +2966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jan 2023 16:50:15 GMT"
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3723,6 +2985,744 @@
         {
           "Name": "integrity",
           "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjab29p8z5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus95c49fh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2pxujwhw3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27gs04nyeNuL9zc/GLQLjdbZqhNGvH+xIYgnYVPIawE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dm14o4hmc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eItLFOyfQ4d/OGzEnGchi2ZMVF8EhGgzS0k7fSOPifQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dsw5v3fbc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.rm8d4uw1xt.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm8d4uw1xt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.ukz1g2vv03.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ukz1g2vv03"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afgyafcsqt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitHyundai\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 04:26:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
         }
       ]
     }
